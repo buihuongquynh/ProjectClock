@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ProjectClock/static/css/main.9c1e1a5b.chunk.css",
+    "main.js": "/ProjectClock/static/js/main.dcf5b52f.chunk.js",
+    "main.js.map": "/ProjectClock/static/js/main.dcf5b52f.chunk.js.map",
+    "runtime-main.js": "/ProjectClock/static/js/runtime-main.1125ecf6.js",
+    "runtime-main.js.map": "/ProjectClock/static/js/runtime-main.1125ecf6.js.map",
+    "static/css/2.370a7834.chunk.css": "/ProjectClock/static/css/2.370a7834.chunk.css",
+    "static/js/2.32893c65.chunk.js": "/ProjectClock/static/js/2.32893c65.chunk.js",
+    "static/js/2.32893c65.chunk.js.map": "/ProjectClock/static/js/2.32893c65.chunk.js.map",
+    "static/js/3.0408a645.chunk.js": "/ProjectClock/static/js/3.0408a645.chunk.js",
+    "static/js/3.0408a645.chunk.js.map": "/ProjectClock/static/js/3.0408a645.chunk.js.map",
+    "index.html": "/ProjectClock/index.html",
+    "static/css/2.370a7834.chunk.css.map": "/ProjectClock/static/css/2.370a7834.chunk.css.map",
+    "static/css/main.9c1e1a5b.chunk.css.map": "/ProjectClock/static/css/main.9c1e1a5b.chunk.css.map",
+    "static/js/2.32893c65.chunk.js.LICENSE.txt": "/ProjectClock/static/js/2.32893c65.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ProjectClock/static/media/Jackson_Desktop_2_e523fb2316.51cd97f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1125ecf6.js",
+    "static/css/2.370a7834.chunk.css",
+    "static/js/2.32893c65.chunk.js",
+    "static/css/main.9c1e1a5b.chunk.css",
+    "static/js/main.dcf5b52f.chunk.js"
+  ]
+}
