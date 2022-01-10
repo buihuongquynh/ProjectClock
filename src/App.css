@@ -12,6 +12,9 @@ a{
 body{
   font-family: var(--curnon-font);
 }
+.content{
+  padding-top: 80px;
+}
 @media (max-width: 768px) {
   ::-webkit-scrollbar {
       width: 5px;

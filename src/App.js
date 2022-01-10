@@ -28,7 +28,7 @@ function App() {
         pauseOnHover
         style={{ zIndex: "999999" }}
       />
-      <Router basename="/">
+      <Router basename="ProjectClock">
         <Header />
         <div className="content">
           <Switch>
